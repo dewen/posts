@@ -18,27 +18,27 @@ USAGE:
 
 
 FILES:
-   .
-   ├── config.php
-   ├── data
-   │   └── posts.csv
-   ├── init.php
-   ├── main.php
-   ├── model
-   │   ├── CSVFormatter.class.php
-   │   ├── Exportable.interface.php
-   │   ├── Formattable.interface.php
-   │   ├── Post.class.php
-   │   ├── PostProcesser.class.php
-   │   ├── PostWriter.class.php
-   │   └── SimplePostExporter.class.php
-   ├── output
-   │   ├── daily_top_posts.csv
-   │   ├── other_posts.csv
-   │   └── top_posts.csv
-   ├── README.md
-   ├── script
-   └── test
-       └── GeneralTest.php
 
+    .
+    ├── config.php
+    ├── data
+    │   └── posts.csv
+    ├── init.php
+    ├── main.php
+    ├── model
+    │   ├── CSVFormatter.class.php
+    │   ├── Exportable.interface.php
+    │   ├── Formattable.interface.php
+    │   ├── Post.class.php
+    │   ├── PostProcesser.class.php
+    │   ├── PostWriter.class.php
+    │   └── SimplePostExporter.class.php
+    ├── output
+    │   ├── daily_top_posts.csv
+    │   ├── other_posts.csv
+    │   └── top_posts.csv
+    ├── README.md
+    ├── script
+    └── test
+        └── GeneralTest.php
 
